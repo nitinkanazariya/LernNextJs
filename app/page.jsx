@@ -8,7 +8,7 @@ const page = () => {
         <div className='h-screen flex  flex-col  '>
             <div className=' bg-[url("/images/homephonebg.png")] lg:bg-[url("/images/homebg.png")] w-full min-h-screen bg-right bg-cover px-[28px] sm:px-[50px] md:px-[100px] lg:px-[100px] xl:px-[200px] 2xl:px-[370px]'>
 
-                <p className='mt-[122px] sm:mt-[166px] lg:mt-[199px] w-[320px] sm:w-[540px] text-white text-[32px] xl:text-[40px] 2xl:text-[50px] font-bold'>Our Mission is to help you grow smarter and more confidently</p>
+                <p className='mt-[122px] sm:mt-[166px] lg:mt-[199px] w-[320px] sm:w-[540px] text-white text-[32px] xl:text-[40px] 2xl:text-[50px] font-bold'>nitin</p>
                 <Image
                     alt='homefixedimg'
                     width={1000}
